@@ -1,8 +1,8 @@
-# a-coder-learns-to-run 程序员学跑步
+# 程序员学跑步
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Marathon_PB_@2020Guangzhou-3:30:15-green"/>
-  <img src="https://img.shields.io/badge/Half_Marathon_PB_@2021Xianlin-1:33:12-red"/>
+  <img src="https://img.shields.io/badge/全马_PB_@2020广马-3:30:15-green"/>
+  <img src="https://img.shields.io/badge/半马_PB_@2021仙马-1:33:12-red"/>
 </p>
 
 从上道到半马,从半马到全马,从330到破三? 一名程序员的跑步日志
