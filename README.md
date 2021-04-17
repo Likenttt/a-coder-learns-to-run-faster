@@ -1,27 +1,44 @@
-# 程序员学跑步🏃
+# 写给优秀程序员看的马拉松指南🏃
+
+<p align="center">
+  <img src="https://img.shields.io/badge/职业-程序员-FF7E00"/>
+  <img src="https://img.shields.io/badge/全马-6场-green"/>
+  <img src="https://img.shields.io/badge/半马-7场-red"/>
+  <img src="https://img.shields.io/badge/跑龄-4年-blue"/>
+</p>
+
+本Repo旨在分享跑步经历、经验。希望能启发到更多的程序员朋友开始一起跑步
+
+⚠️ watch 本 repo 可及时获得文章更新通知～ 
+
+点个 :star:  ，你的膝盖将像代码一样健壮～
+
+
+
+## 关于我
 
 <p align="center">
   <img src="https://img.shields.io/badge/全马_PB_@2020广马-3:30:15-green"/>
   <img src="https://img.shields.io/badge/半马_PB_@2021仙马-1:33:12-red"/>
 </p>
-从上道到半马，从半马到全马，从330到破三？一名程序员💻👩‍🦲克服油腻、不断 PB 的跑步🏃日志。⚠️ watch 本 repo 可及时获得文章更新通知～
 
+某世界500 强公司程序员。跑步爱好者，跑龄四年，累计参加过10余场马拉松。最好全马成绩是 3:30:15，半马是1:33:12，参照中国田协发布的[[中国境内马拉松及相关运动大众选手等级评定实施办法](http://www.runchina.org.cn/portal.php?mod=download&id=83)，半马水平已经达到精英级，全马靠近精英级。
 
+<img src="./images/runchina-sub29-runner-level.png" style="zoom:50%;" />
 
 ## 目录
 
-- 关于我
-- 如何开始
+- 跑步，其实挺简单的
 - 训练
-- 赛记
-  - 2018
-    - 我的首场比赛——绍兴马拉松156
-  - [2019赛季5场总结](./races/2019-races-summary.md)
-  - 2020
-    - 跑崩是什么滋味——无锡马拉松433
-    - 江北新区半程马拉松138
+- 我的一些比赛经历
+  - 我的马拉松元年
+    - 首场比赛——绍兴马拉松156
+  - [2019赛季](./races/2019-races-summary.md)
+  - 2020赛季
+    - 跑崩是什么滋味——无锡马拉松
+    - 十度以下的大冷天PB——江北新区半程马拉松
     - 首次Pacer之旅——南京马拉松500
-    - [MIRT出征广马——我终于摸到了330边儿](./races/2020-12-13-guangzhou-marathon-3_30_15.md)
+    - [MIRT出征广马——摸到了330的边儿](./races/2020-12-13-guangzhou-marathon-3_30_15.md)
   - 2021
     - [仙马——全新赛季，再获PB-133](./races/2021-04-11-xianlin-half-marathon-1_33_12.md) 
 - 饮食
