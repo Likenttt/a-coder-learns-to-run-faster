@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/半马_PB-1:33:12-red"/>
 </p>
 
-一名某世界500 强公司程序员。跑步爱好者，跑龄四年，累计参加过10余场马拉松。全马 PB 是 3:30:15，半马是1:33:12，参照中国田协发布的[中国境内马拉松及相关运动大众选手等级评定实施办法](http://www.runchina.org.cn/portal.php?mod=download&id=83)，半马水平已经达到精英级，全马靠近精英级。
+我是一名某世界500 强公司程序员。跑步爱好者，跑龄四年，累计参加过10余场马拉松。全马 PB 是 3:30:15，半马是1:33:12，参照中国田协发布的[中国境内马拉松及相关运动大众选手等级评定实施办法](http://www.runchina.org.cn/portal.php?mod=download&id=83)，半马水平已经达到精英级，全马靠近精英级。
 
 <img src="./images/runchina-sub29-runner-level.png" style="zoom:50%;" />
 
